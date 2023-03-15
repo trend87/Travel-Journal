@@ -18,7 +18,7 @@ export default [
         googleMapsUrl:"https://www.google.com/maps/contrib/104638486623707479945/place/ChIJ3S-JXmauEmsRUcIaWtf4MzE/@-33.8567844,151.2152967,17z/data=!4m6!1m5!8m4!1e2!2s104638486623707479945!3m1!1e1",
         startDate:"01-Jan-2022",
         endDate:"31-Dec-2022",
-        description:"The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
+        description:"The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings.",
         imageUrl:"https://source.unsplash.com/JmuyB_LibRo"
     },
 
